@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer'; // Asegúrate de que esta importación sea correcta
-import Contenido from './components/contenido/contenido'; // Asegúrate de que esta importación sea correcta
+import Footer from './components/Footer/Footer'; 
+import Contenido from './components/contenido/contenido'; 
 
 const App = () => {
   return (

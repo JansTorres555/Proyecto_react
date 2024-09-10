@@ -4,43 +4,43 @@ const Contenido = () => {
   const productos = [
     {
       id: 1,
-      nombre: 'Camiseta de Fútbol 1',
-      descripcion: 'Descripción breve de la camiseta de fútbol.',
-      precio: '$29.99',
+      nombre: '',
+      descripcion: '',
+      precio: '$0',
       imgSrc: 'https://via.placeholder.com/300x200?text=Camiseta+1'
     },
     {
       id: 2,
       nombre: 'Camiseta de Fútbol 2',
-      descripcion: 'Descripción breve de la camiseta de fútbol.',
-      precio: '$34.99',
+      descripcion: '',
+      precio: '$0',
       imgSrc: 'https://via.placeholder.com/300x200?text=Camiseta+2'
     },
     {
       id: 3,
-      nombre: 'Camiseta de Fútbol 3',
-      descripcion: 'Descripción breve de la camiseta de fútbol.',
-      precio: '$39.99',
+      nombre: 'Camiseta de Chile ',
+      descripcion: '',
+      precio: '$0',
       imgSrc: 'https://via.placeholder.com/300x200?text=Camiseta+3'
     },
     {
       id: 4,
-      nombre: 'Camiseta de Fútbol 4',
-      descripcion: 'Descripción breve de la camiseta de fútbol.',
+      nombre: '',
+      descripcion: '',
       precio: '$24.99',
       imgSrc: 'https://via.placeholder.com/300x200?text=Camiseta+4'
     },
     {
       id: 5,
-      nombre: 'Camiseta de Fútbol 5',
-      descripcion: 'Descripción breve de la camiseta de fútbol.',
-      precio: '$44.99',
+      nombre: '',
+      descripcion: '',
+      precio: '$0',
       imgSrc: 'https://via.placeholder.com/300x200?text=Camiseta+5'
     },
     {
       id: 6,
       nombre: 'Camiseta de Fútbol 6',
-      descripcion: 'Descripción breve de la camiseta de fútbol.',
+      descripcion: '',
       precio: '$39.99',
       imgSrc: 'https://via.placeholder.com/300x200?text=Camiseta+6'
     }
